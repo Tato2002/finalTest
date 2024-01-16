@@ -1,5 +1,9 @@
+User-agent: Googlebot
+User-agent: DuckDuckBot
+User-agent: Facebot
+Disallow: /
+
 User-agent: *
-Disallow: /private/
-Disallow: /search/
-Allow: /public/
-Sitemap: https://techwizards.ge/
+Allow: /
+
+Sitemap: https://www.techwizards.ge/sitemap.xml
