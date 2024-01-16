@@ -1,9 +1,9 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
 User-agent: Googlebot
 User-agent: DuckDuckBot
 User-agent: Facebot
-Disallow: /
-
-User-agent: *
-Allow: /
 
 Sitemap: https://www.techwizards.ge/sitemap.xml
