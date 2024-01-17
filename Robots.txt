@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /private/
-Disallow: /search/
-Allow: /public/
-Sitemap: https://techwizards.ge/
