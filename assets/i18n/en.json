@@ -197,5 +197,71 @@
      "M-Web.12.2" : "Dynamic Categorization of Meals and Beverages",
      "M-Web.12.3" : "Adapted for mobiles",
      "M-Web.12.4" : "QR Code",
-     "M-Web.12.5" : "Price range $500 - $1500"
+     "M-Web.12.5" : "Price range $500 - $1500",
+
+     "Terms" : "Terms and Conditions",
+
+     "Terms-H" : "Terms, Timing and Conditions",
+
+     "T-1" : "1. Scope and cost of the project",
+     "T-1.1" : "1.1 Detailed Project Specification",
+     "T-1.1-br" : "A comprehensive project specification document will be created that outlines deliverables, timelines, milestones, and payment milestones. This document will serve as a clear road map for both parties throughout the project's life cycle.",
+     "T-1.2" : "1.2 Cost Transparency",
+     "T-1.2-br" : "The total cost of the project, including any applicable taxes or fees, shall be expressly stated in the project agreement.",
+     "T-1.3" : "1.3 non-refundable deposit",
+     "T-1.3-br" : "A 50% non-refundable deposit is required to secure project initiation and development resources. This deposit reflects the client's commitment and ensures project prioritization.",
+
+     "T-2" : "2. Payment schedule and methods",
+     "T-2.1" : "2.1 Deposit payment date",
+     "T-2.1-br" : "50% deposit is paid after project approval and contract signing.",
+     "T-2.2" : "2.2 Final Payment Term",
+     "T-2.2-br" : "The remaining 50% is paid after the successful completion of the project as defined in the project specification and before the publication of the final deliverable.",
+     "T-2.3" : "2.3 Accepted payment methods: with the account of the Bank of Georgia (BOG BANK)",
+
+     "T-3" : "3. Development process and communication",
+     "T-3.1" : "3.1 Project Management Tools",
+     "T-3.1-br" : "Define preferred tools for project management, communication, and task tracking (eg, ReactJS, Angular2+, React-Native).",
+     "T-3.2" : "3.2 Project Development Stages",
+     "T-3.2-br" : "The developer will provide the customer with regular project updates, ideally using an agreed project management tool. The updates will include progress reports, milestones completed and any potential challenges or delays.",
+     "T-3.3" : "3.3 Feedback and Review",
+     "T-3.3-br" : "The user will have the opportunity to review work in progress and provide feedback at defined stages of development. This collaborative approach ensures compliance with user expectations and allows for timely adjustments if necessary.",
+
+     "T-4" : "4. Delivery and Ownership",
+     "T-4.1" : "4.1 Delivery of final work",
+     "T-4.1-br" : "The final deliverable, including all source and code, documentation and assets, will be delivered to the customer after full payment of the project fee.",
+     "T-4.2" : "4.2 Intellectual Property",
+     "T-4.2-br" : "Company retains full ownership of all intellectual property rights, including source code, until full payment is received.",
+
+     "T-5" : "5. Revisions and change management",
+     "T-5.1" : "5.1 Scope of Revisions",
+     "T-5.1-br" : "Clearly define the number of revisions or feedback cycles included in the scope of the project.",
+     "T-5.2" : "5.2 additional work",
+     "T-5.2-br" : "Customer shall reimburse Company for additional work or revision request processing beyond the agreed scope. This includes adding additional costs, updating the project, and obtaining approval from Customer before proceeding.",
+
+     "T-6" : "6. Cancellation and Termination",
+     "T-6.1" : "6.1 Termination of the Agreement by the User",
+     "T-6.1-br" : "If the client cancels after development has started, the 50% deposit is non-refundable to compensate for the time and resources invested by the developer.",
+     "T-6.2" : "6.2 Termination of the Agreement by the Developer",
+     "T-6.2-br" : "The developer reserves the right to terminate the project if the payment is not fixed according to the agreement, or if the customer repeatedly violates the terms of the agreement.",
+
+     "T-7" : "7. Acceptance and agreement",
+     "T-7.1" : "Acknowledgment and Consent: By signing this Agreement, both parties acknowledge and agree to these terms and conditions.",
+
+     "T-8" : "8. Dispute resolution",
+     "T-8.1" : "8.1 Negotiation in good faith",
+     "T-8.1-br" : "Any dispute arising out of this Agreement shall first be attempted through negotiation to be resolved in good faith between the parties.",
+     "T-8.2" : "8.2 BINDING ARBITRATION",
+     "T-8.2-br" : "If negotiations fail, disputes will be resolved by binding arbitration, in accordance with the rules of the Tbilisi City Court.",
+
+     "T-9" : "9. Regulatory Law",
+     "T-9.1" : "This Agreement shall be interpreted and enforced in accordance with the laws of the Constitution of Georgia.",
+
+     "T-10" : "10. Complete Agreement",
+     "T-10.1" : "Supersedes Prior Agreements: This Agreement constitutes the entire agreement between the parties and supersedes any prior or contemporaneous communications or agreements, whether oral or written.",
+     "T-11" : "11. Modification and Correction",
+
+     "T-11.1" : "Written Consent: Any changes to this Agreement must be in writing and signed by both parties.",
+
+     "T-sign": "Signatures",
+     "T-Author" : "Author"
     }
