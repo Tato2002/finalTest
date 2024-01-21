@@ -1,0 +1,201 @@
+
+
+{
+  "Home" : "Main",
+  "Ser" : "Services",
+  "About" : "About",
+  "Packages" : "Packages",
+
+  "Contact" : "Contact",
+  "Blog" : "Blog",
+  "W-S" : "WEB Services",
+  "W-D" : "WEB Design",
+  "P-W" : "Portfolio Website",
+  "E-C" : "E-Commerce Website",
+  "N-P" : "Non Profit Website",
+  "T-C" : "Terms & Conditions",
+  "rights" : "All rights reserved",
+
+
+
+   "WelcomeText" : "Welcome To",
+   "WelcomeText2" : "Digital Art",
+   " " : " ",
+
+
+   "Card1" : "Are you Tired",
+   "Card1.1" : "Of Primitive",
+   "Card1.2" : "Websites",
+   "Card1-Back" : "So We",
+
+
+   "Card2" : "Who We",
+   "Card2.1" : "Are",
+   "Card2-Back" : "Visit",
+   "Card2-Back1.1" : "The Page",
+
+
+   "Card3" : "Difficult To Find",
+   "Card3.1" : "a Website",
+   "Card3.2" : "with an Optimal Price",
+   "Card3-Back" : "You won! High five for choosing the best spot",
+
+
+   "Card4" : "Thinkers",
+   "Card4.1" : "Build castles in the air",
+   "Card4-Back" : "Doers Conquer real Ones",
+
+
+   "Card5" : "Your Dream",
+   "Card5.1" : "Website is Just",
+   "Card5.2" : "a Click Away !",
+   "Card5-Back" : "Limitations ?",
+   "Card5-Back1.1" : "Our Only Limit",
+   "Card5-Back1.2" : "is Your Imagination",
+
+
+   "Web-S" : "WEB Services",
+   "Web-S.1" : "How to Order a Website ?",
+   "Web-S.1.2" : "Process of Ordering:",
+   "Web-S.1.3" : "Tutorial for Customers",
+   "Web-S.1.4" : "Discovering and Getting familiar",
+   "Web-S.1.5" : "Initial Consultation - We'll have a chat to discuss your project goals, target audience, desired website functionality and any existing branding guidelines. This helps me understand your vision and tailor the website accordingly.",
+   "Web-S.1.6" : "Website Inspiration - Share a website you love, describe what resonates with you about their design and functionality.",
+   "Web-S.1.7" : "Content Collection - Provide us with existing content (texts, images, logos) or give us an idea of what to create.",
+
+   "Web-S2" : "Planning a strategy",
+   "Web-S2.1" : "Site Map and User Flow - We map out the structure of the website, noting how users will navigate through the various pages and find the information they need.",
+   "Web-S2.2" : "Wireframing and Prototyping - We'll show you near-accuracy mockups to visualize the layout and functionality of the website to make sure we're on the right track.",
+   "Web-S2.3" : "Style Guide and Mood Board - We define the visual identity of the website, including color palettes, fonts and overall aesthetics, based on your preferences and brand guidelines.",
+
+   "Web-S3" : "Design and development",
+   "Web-S3.1" : "Home Page Design – We will focus on creating a stunning and impactful home page that sets the tone for the entire website. We present a number of design options for you to consider.",
+   "Web-S3.2" : "Internal Page Design - We will create the layout and visual elements for other main pages such as contact, about us and product/service pages.",
+
+   "Web-S4" : "Deployment",
+   "Web-S4.1" : "Website Review and Feedback - We will thoroughly review the website and test the project before finally launching.",
+   "Web-S4.2" : "Site Launch and Promotion - We will help you launch your website and provide guidance on how to promote it to your target audience.",
+   "Web-S4.3" : "Ongoing Maintenance and Support - We will be available for any future updates, edits or technical support you may need.",
+   "Web-Prices" : "Find out the prices",
+
+   "A-U" : "TEAM",
+   "A-U.1" : "Temo Mgzavridze",
+   "A-U.1.1" : "WEB - analyst",
+
+   "A-U.2" : "Aleqsandre Chokheli",
+   "A-U.2.1" : "Backend - Developer",
+
+   "A-U.3" : "Mirian Tsintsadze",
+   "A-U.3.1" : "Backend - Developer",
+
+   "A-U.4" : "Tata Kharatishvili",
+   "A-U.4.1" : "Frontend - Developer",
+
+   "A-U.5" : "Tina Chaduneli",
+   "A-U.5.1" : "WEB - Designer",
+
+   "A-U.6" : "Giorgi Ghvintidze",
+   "A-U.6.1" : "Backend - Developer",
+
+   "A-U.7" : "Nini Ghibradze",
+   "A-U.7.1" : "Frontend - Developer",
+
+   "A-U.8" : "Tato Sarjveladze",
+   "A-U.8.1" : "Frontend - Developer",
+
+   "N-F" : "Page Not Found",
+
+
+   "Commerce" : "Commerce Websites",
+   "Commerce.1" : "Includes Golden Package",
+   "Commerce.1.1" : "Individual Commerce platform adapting to your Brand",
+   "Commerce.1.2" : "Advanced payment system integrations and fraud prevention measures",
+   "Commerce.1.3" : "Data security and market registration",
+   "Commerce.1.4" : "Dedicated project manager for ongoing support and maintenance",
+   "Commerce.1.5" : "Price range from $15,000",
+
+    "Commerce2" : "Golden Package",
+    "Commerce.2" : "Ideal for large-scale businesses, extensive functionality",
+    "Commerce.2.1" : "Up to 100 product pages with dynamic filtering & search",
+    "Commerce.2.2" : "Personalized product offers",
+    "Commerce.2.3" : "User Accounts and Wishlist (Cart)",
+    "Commerce.2.4" : "Secure scalable platform with integrated chat",
+    "Commerce.2.5" : "Price range $7,500 - $10,000+",
+
+    "Commerce3" : "Silver Package",
+    "Commerce.3" : "for developing business",
+    "Commerce.3.1" : "up to 50 product pages with categorization",
+    "Commerce.3.2" : "Integrated Blog & Social Media (Facebook)",
+    "Commerce.3.3" : "Advanced SEO Optimization",
+    "Commerce.3.4" : "Mobile friendly design",
+    "Commerce.3.5" : "Price Range $4,500 - $6,500",
+
+    "Commerce4" : "Bronze Pack",
+     "Commerce.4" : "Initial stage of startup",
+     "Commerce.4.1" : "Design offered by us (logo, colors, branding)",
+     "Commerce.4.2" : "up to 20 product pages",
+     "Commerce.4.3" : "Secure Shopping Cart & Payment System",
+     "Commerce.4.4" : "Contact form and basic FAQ (frequently asked questions) section",
+     "Commerce.4.5" : "Price Range $2,500 - $3,500",
+
+     "N-Commerce5" : "Gold Package",
+     "N-Commerce.5" : "A good option for non-profit organizations with the necessary full functionality",
+     "N-Commerce.5.1" : "Content management system (admin panel)",
+     "N-Commerce.5.2" : "Registration of events (booking)",
+     "N-Commerce.5.3" : "Marketing Automation (Auto Email Notifications)",
+     "N-Commerce.5.4" : "Price range from $3,000",
+
+     "N-Commerce6" : "Silver Pack",
+     "N-Commerce.6" : "All Features of the Bronze Package",
+     "N-Commerce.6.1" : "Electronic Commerce Functionality",
+     "N-Commerce.6.2" : "Processing Donations",
+     "N-Commerce.6.3" : "Live Live Chat & Analytics Dashboard",
+     "N-Commerce.6.4" : "A good option for those who accept donations online",
+     "N-Commerce.6..5" : "Price Range $500-$1500",
+
+     "N-Commerce7" : "Bronze Pack",
+     "N-Commerce.7" : "Basic website design with 5 pages",
+     "N-Commerce.7.1" : "Domain Registration & Hosting",
+     "N-Commerce.7.2" : "Contact Form",
+     "N-Commerce.7.3" : "Social Media Integration",
+     "N-Commerce.7.4" : "A good option for organizations that are not profit oriented",
+     "N-Commerce.7.5" : "Price Range from $500",
+
+     "P-Web": "Portfolio-type websites",
+
+     "P-Web8" :"Gold Package",
+     "P-Web.8" : "online platform adapted to all devices",
+     "P-Web.8.1" : "Interactive Elements & Animations",
+     "P-Web.8.2" : "Categorization of Papers",
+     "P-Web.8.3" : "Unique Functionality",
+     "P-Web.8.4" : "Price Range $1,500 - $2,000",
+
+     "P-Web9" : "Silver Pack",
+     "P-Web.9" : "High Quality Visual Portfolio Website",
+     "P-Web.9.1" : "Integrating with Social Media Platforms",
+     "P-Web.9.2" : "Price Range $200 - $1500",
+
+     "P-Web10" : "Bronze Package",
+     "P-Web.10" : "Simple portfolio type website",
+     "P-Web.10.1" : "Basic Functionality & Design",
+     "P-Web.10.2" : "Built frequently with existing templates",
+     "P-Web.10.3" : "Price from $200",
+
+     "B-Web & M-Web" : "Business and Restaurant Industry",
+
+     "B-Web11" : "Small Business Package",
+     "B-Web.11" : "Ideal for those who want to progress online",
+     "B-Web.11.1" : "5 static pages (home, about, services, contact, career)",
+     "B-Web.11.2" : "Adapted for mobiles",
+     "B-Web.11.3" : "Contact form integration",
+     "B-Web.11.4" : "Basic SEO optimization for free!",
+     "B-Web.11.5" : "Price range $500 - $1000",
+
+     "M-Web12" : "menu",
+     "M-Web.12" : "For those who want to whet the appetite of users",
+     "M-Web.12.1" : "According to your delicious menu",
+     "M-Web.12.2" : "Dynamic Categorization of Meals and Beverages",
+     "M-Web.12.3" : "Adapted for mobiles",
+     "M-Web.12.4" : "QR Code",
+     "M-Web.12.5" : "Price range $500 - $1500"
+    }
