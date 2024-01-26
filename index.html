@@ -84,6 +84,20 @@
 <div id="fb-customer-chat" class="fb-customerchat">
 </div>
 
+  <script>
+  function sendGreeting() {
+  FB.CustomerChat.showDialog({
+    greetingDialogDisplay: 'show',
+    greetingDialogDelay: 1000,
+    greetingDialogDuration: 5000,
+    greetingDialogMsg: 'Hello',
+  });
+}
+window.onload = function() {
+  sendGreeting();
+}
+</script>
+
 <script>
   var chatbox = document.getElementById('fb-customer-chat');
   chatbox.setAttribute("page_id", "195583913631902");
