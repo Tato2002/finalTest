@@ -2,7 +2,7 @@
 
 {
   "Home" : "Main",
-  "Ser" : "Services",
+  "Ser" : "Online Courses",
   "About" : "About",
   "Packages" : "Packages",
 
@@ -12,6 +12,7 @@
   "W-D" : "WEB Design",
   "P-W" : "Portfolio Website",
   "E-C" : "E-Commerce Website",
+  "EDU" : "Education",
   "N-P" : "Non Profit Website",
   "T-C" : "Terms & Conditions",
   "rights" : "All rights reserved",
